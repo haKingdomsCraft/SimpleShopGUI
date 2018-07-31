@@ -1,7 +1,7 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/haKingdomsCraft/SimpleShopGUI
 branches:
-- master
+- TrexCraft
 projects:
   SimpleShopGUI:
-    path: ""
+    path: "538327-shop_512x512.png"
 ...
