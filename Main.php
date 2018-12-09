@@ -29,13 +29,13 @@ class Main extends PluginBase implements Listener {
   */
 public $Blocks = [
     "ICON" => ["Blocks",2,0],
-    "Oak Wood" => [17,0,30,15],
-    "Birch Wood" => [17,2,30,15],
+    "Oak Wood" => [17,0,300,150],
+    "Birch Wood" => [17,2,120,40],
     "Spruce Wood" => [17,1,30,15],
     "Dark Oak Wood" => [162,1,30,15],
 	"Cobblestone" => [4,0,60,5],
 	"Obsidian" => [49,0,500,250],
-	"Bedrock" => [7,0,90000,23467],
+	"Bedrock" => [7,0,900000,23467],
 	"Sand " => [12,0,15,7],
     "Sandstone " => [24,0,15,7],
 	"Nether Rack" => [87,0,15,7],
@@ -60,7 +60,7 @@ public $Blocks = [
     "White Wool" => [35,0,100,20],
     "Stone Slab" => [44,0,15,20],
     "Stone Stairs" => [67,0,100,20],
-    "Snow" => [80,0,50,50],
+    "Snow" => [80,0,101,58],
     "Stone Bricks" => [98,0,50,50],
     "White Stained Glass" => [160,0,500,50],
     "Orange Stained Glass" => [160,1,1000,100],
@@ -164,7 +164,7 @@ public $Blocks = [
     "Husk" => [383,47,50000,1000],
     "Zombie_Pigman" => [383,36,50000,1000],
     "Creeper" => [383,33,50054,1000],
-    "Mob Spawner" => [52,0,15000,34000]
+    "Mob Spawner" => [52,0,15000,3575]
   ];
 
   public $Potions = [
