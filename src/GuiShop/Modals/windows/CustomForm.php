@@ -1,10 +1,10 @@
 <?php
 
-namespace GuiShop\Modals\windows;
+namespace King\Modals\windows;
 
 use pocketmine\Player;
-use GuiShop\Modals\CustomUI;
-use GuiShop\Modals\elements\UIElement;
+use King\Modals\CustomUI;
+use King\Modals\elements\UIElement;
 
 class CustomForm implements CustomUI, \JsonSerializable{
 
