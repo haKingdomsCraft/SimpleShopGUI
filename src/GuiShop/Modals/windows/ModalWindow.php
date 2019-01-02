@@ -1,10 +1,10 @@
 <?php
 
-namespace GuiShop\Modals\windows;
+namespace King\Modals\windows;
 
 use Exception;
 use pocketmine\Player;
-use GuiShop\Modals\CustomUI;
+use King\Modals\CustomUI;
 
 class ModalWindow implements CustomUI, \JsonSerializable{
 
