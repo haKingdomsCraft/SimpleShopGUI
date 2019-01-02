@@ -21,7 +21,7 @@
 
 declare(strict_types=1);
 
-namespace GuiShop\Modals\network;
+namespace King\Modals\network;
 
 #include <rules/DataPacket.h>
 
