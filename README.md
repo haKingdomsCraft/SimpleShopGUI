@@ -1,2 +1,2 @@
-# SimpleShopGUI
-GUI shop for pocketmine servers
+# TOPSHOPUI
+SHOPUI PLUGIN
