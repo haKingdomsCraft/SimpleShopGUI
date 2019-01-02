@@ -1,6 +1,6 @@
 <?php
 
-namespace GuiShop;
+namespace King;
 
 use pocketmine\Player;
 use pocketmine\Server;
@@ -12,9 +12,9 @@ use pocketmine\math\Vector3;
 use pocketmine\utils\TextFormat as TF;
 use pocketmine\network\mcpe\protocol\PacketPool;
 use pocketmine\event\server\DataPacketReceiveEvent;
-use GuiShop\Modals\elements\{Dropdown, Input, Button, Label, Slider, StepSlider, Toggle};
-use GuiShop\Modals\network\{GuiDataPickItemPacket, ModalFormRequestPacket, ModalFormResponsePacket, ServerSettingsRequestPacket, ServerSettingsResponsePacket};
-use GuiShop\Modals\windows\{CustomForm, ModalWindow, SimpleForm};
+use King\Modals\elements\{Dropdown, Input, Button, Label, Slider, StepSlider, Toggle};
+use King\Modals\network\{GuiDataPickItemPacket, ModalFormRequestPacket, ModalFormResponsePacket, ServerSettingsRequestPacket, ServerSettingsResponsePacket};
+use King\Modals\windows\{CustomForm, ModalWindow, SimpleForm};
 use pocketmine\command\{Command, CommandSender, ConsoleCommandSender, CommandExecutor};
 
 use onebone\economyapi\EconomyAPI;
