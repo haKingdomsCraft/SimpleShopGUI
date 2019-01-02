@@ -1,6 +1,6 @@
 <?php
 
-namespace GuiShop\Modals;
+namespace King\Modals;
 
 use pocketmine\Player;
 
