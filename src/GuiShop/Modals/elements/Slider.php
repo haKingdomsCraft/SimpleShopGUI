@@ -1,6 +1,6 @@
 <?php
 
-namespace GuiShop\Modals\elements;
+namespace King\Modals\elements;
 
 use Exception;
 use pocketmine\Player;
