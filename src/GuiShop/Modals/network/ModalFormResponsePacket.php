@@ -1,6 +1,6 @@
 <?php
 
-namespace GuiShop\Modals\network;
+namespace King\Modals\network;
 
 #include <rules/DataPacket.h>
 
