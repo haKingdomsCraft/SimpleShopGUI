@@ -1,12 +1,12 @@
-name: SimpleShopGUI
+name: TOPSHOPUI
 main: King\Main
 version: 0.0.2
 api:
 - 3.5.2
 - 4.0.1
 -3.0.0
-author: TrexCraft Devz
-description: Shopgui by trexcraft
+author: KING
+description: A SHOPUI PLUGIN
 commands:
  shop:
-  description: Shopgui by trexcraft
+  description: SHOPUI PLUGIN
