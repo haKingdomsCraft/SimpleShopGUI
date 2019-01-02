@@ -1,11 +1,11 @@
 <?php
 
-namespace GuiShop\Modals\windows;
+namespace King\Modals\windows;
 
 use Exception;
 use pocketmine\Player;
-use GuiShop\Modals\CustomUI;
-use GuiShop\Modals\elements\Button;
+use King\Modals\CustomUI;
+use King\Modals\elements\Button;
 
 class SimpleForm implements CustomUI, \JsonSerializable{
 
