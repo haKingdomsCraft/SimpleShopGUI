@@ -1,7 +1,7 @@
 <?php
 
 
-namespace GuiShop\Modals\network;
+namespace King\Modals\network;
 
 
 class ProtocolInfo{
